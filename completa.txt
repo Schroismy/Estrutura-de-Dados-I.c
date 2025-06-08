@@ -1,0 +1,30 @@
+# Nodos dispostos para gera uma árvore (quase) completa
+# Sao 7 dados
+123
+123.500000
+Fulano da Silva
+
+50
+234.450000
+Beltrano
+
+25
+2304.230000
+Horarcio 
+
+60
+4000.450000
+Gervazio
+
+300
+345.456000
+Ciclano
+
+250
+3450.000000
+Antonela Fonseca
+
+500
+567.560000
+Jose Carlos
+

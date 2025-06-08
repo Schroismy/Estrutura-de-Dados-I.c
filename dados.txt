@@ -1,0 +1,52 @@
+# Como a acentuacao pode variar de sistema a sistema (eu uso UTF-8)
+# optei em nao usar acentos aqui.
+#
+# linhas que comecarem com # serao ignoradas e, portanto, sao
+# comentarios. Nunca coloque em uma linha deste arquivo mais do que 
+# MAXLINHA cars (definido no fonte com, originalmente, 10000
+#
+# O arquivo de dados, em txt, deve ter os dados
+# precisamente na ordem, um por linha:
+# valor
+# salario
+# nome
+#
+# pode ter uma linha em branco depois do nome e antes do proximo valor
+# mas tem que ser em branco mesmo. Se tiver um unico espaco em branco
+# dara erro.
+#
+# os exemplos de arquivos disponibilizados pelo professor terao
+# comentarios no inicio explicando o que sao.
+#
+# EXEMPLO deste arquivo: sao 7 dados, ja prontos para gerar uma 
+# arvore completa, ou seja, ja estao no arquivo precisamente
+# colocados para montar uma arvore completa
+#
+
+123
+123.5
+Fulano da Silva
+
+50
+234.45
+Beltrano
+
+300
+345.456
+Ciclano
+
+25
+2304.23
+Horarcio
+
+60
+4000.45
+Gervazio
+
+250
+3450.0
+Antonela Fonseca
+
+500
+567.56
+Jose Carlos
